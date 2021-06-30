@@ -5,4 +5,4 @@ Golang.Api math service.
 http://localhost:8000/api/{method}/{a}/{b}  
 
 methods - add, sub, mul, div   
-a,b - all numbers with one symbol after.  
+a,b - all numbers with one symbol after .  
